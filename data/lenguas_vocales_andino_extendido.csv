@@ -1,0 +1,14 @@
+language,lat,lon,cantidad_vocales,md_file
+Mochica,-6.77,-79.84,promedio,mochica.md
+Cholón,-8.66,-76.22,promedio,cholon.md
+Quechua ecuatoriano,-1.67,-78.65,pequeño,quechua_ecuatoriano.md
+Quechua Ancash,-9.53,-77.53,pequeño,quechua_ancash.md
+Puquina,-15.84,-70.02,promedio,puquina.md
+Aymara,-16.5,-68.15,pequeño,aymara.md
+Jacaru,-12.64,-75.74,pequeño,jacaru.md
+Quechua cuzqueño,-13.52,-71.97,pequeño,quechua_cuzqueno.md
+Quechua ayacuchano,-13.16,-74.23,pequeño,quechua_ayacuchano.md
+Kunza,-22.91,-68.2,promedio,kunza.md
+Allentiac,-31.54,-68.52,promedio,allentiac.md
+Millcayac,-32.89,-68.85,promedio,millcayac.md
+Mapudungun,-38.74,-72.6,promedio,mapudungun.md
